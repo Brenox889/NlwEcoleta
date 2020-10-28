@@ -41,4 +41,4 @@
 
 ---
 
-Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes-14206318a/) :bat:
+Made by [Breno Mendes](https://www.linkedin.com/in/breno-mendes) :bat:
